@@ -1,0 +1,11 @@
+{
+  "title": "Song Title",
+  "artist": "Artist Name",
+  "album": "Album Name",
+  "releaseDate": "2023-10-01",
+  "genre": "Pop",
+  "duration": "3:45",
+  "albumArt": "ipfs://QmExampleAlbumArt",
+  "audioFile": "ipfs://QmExampleAudioFile",
+  "lyrics": "ipfs://QmExampleLyrics"
+}
